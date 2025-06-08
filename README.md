@@ -9,12 +9,9 @@ This repository contains all the HTML and CSS projects I completed during my cou
 ## 🌐 Live Portfolio Website
 
 You can view my portfolio live at:  
-👉 [https://github.com/YOUR-USERNAME/portfolio-website](https://github.com/YOUR-USERNAME/portfolio-website)  
-(Replace `YOUR-USERNAME` with your actual GitHub username)
+👉 [https://github.com/Sabita Chapagain Dhakal/portfolio-website](https://github.com/SAbita Chapagain Dhakal/portfolio-website)  
 
----
-
-## 📁 Projects Completed
+ 📁 Projects Completed
 
 ### ✅ 1. Personal Portfolio Website
 - **Description:** A responsive personal website built using HTML and CSS to showcase my skills and projects.
