@@ -18,23 +18,7 @@ You can view my portfolio live at:
 - **Features:** About Me, Projects section, Contact Info, Navigation
 - **Skills Used:** HTML5, CSS3, Flexbox, basic design layout
 
----
-
-### ✅ 2. Simple Landing Page
-- **Description:** A clean and modern landing page created for a fictional service.
-- **Features:** Hero section, call-to-action button, mobile responsiveness
-- **Skills Used:** HTML, CSS
-
----
-
-### ✅ 3. Blog Layout (Optional Project)
-- **Description:** A blog homepage layout featuring posts and a sidebar.
-- **Features:** Multi-column layout, responsive design
-- **Skills Used:** HTML, CSS, Grid/Flexbox
-
----
-
-## 🛠 Skills Demonstrated
+## Bootstrap Project
 - Semantic HTML structure
 - CSS styling and layout techniques
 - Responsive design using Flexbox and media queries
